@@ -1,6 +1,6 @@
 {
   "name": "pixi.js",
-  "version": "4.7.3",
+  "version": "4.8.0",
   "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
   "author": "Mat Groves",
   "contributors": [
@@ -66,7 +66,7 @@
     "resource-loader": "^2.1.1"
   },
   "devDependencies": {
-    "@pixi/jsdoc-template": "^2.0.0",
+    "@pixi/jsdoc-template": "^2.4.1",
     "babel-cli": "^6.18.0",
     "babel-plugin-static-fs": "^1.1.0",
     "babel-plugin-version-inline": "^1.0.0",
